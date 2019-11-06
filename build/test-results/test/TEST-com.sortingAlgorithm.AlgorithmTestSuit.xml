@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sortingAlgorithm.AlgorithmTestSuit" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-06T22:12:44" hostname="DESKTOP-JQQCH05" time="0.003">
+  <properties/>
+  <testcase name="testBubblesort" classname="com.sortingAlgorithm.AlgorithmTestSuit" time="0.003"/>
+  <system-out><![CDATA[Test Suite: begin
+Test Case: begin
+Testing bubble sorting method on unsorted array
+Test Case: end
+Test Suite: end
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
